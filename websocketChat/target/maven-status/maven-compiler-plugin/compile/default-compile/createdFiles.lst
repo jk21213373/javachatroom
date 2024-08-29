@@ -1,0 +1,10 @@
+com\huanf\controller\UserController.class
+com\huanf\pojo\Result.class
+com\huanf\config\WebsocketConfig.class
+com\huanf\ChatApplication.class
+com\huanf\ws\pojo\Message.class
+com\huanf\ws\ChatEndpoint.class
+com\huanf\ws\pojo\ResultMessage.class
+com\huanf\utils\MessageUtils.class
+com\huanf\config\GetHttpSessionConfig.class
+com\huanf\pojo\User.class
